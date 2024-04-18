@@ -3,4 +3,5 @@
 
 
 def floor(a: float) -> int:
+    "basic annotation"
     return int(a)
